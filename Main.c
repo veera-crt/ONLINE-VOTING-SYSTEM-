@@ -1,4 +1,4 @@
-Coding (C/Python)
+Coding (C)
 
 #include<stdio.h>
 
